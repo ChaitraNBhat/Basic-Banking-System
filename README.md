@@ -6,4 +6,4 @@
     Users table with fields such as name, email, current balance etc.
     Transaction table with fields such as sender, receiver, transfered money, transfered date and time.
 
-Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Transaction History.
+Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to >View all customers.
